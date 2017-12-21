@@ -11,7 +11,7 @@ body {
   width: 100%;
   position: relative;
   font-family: 'Alegreya Sans', sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 20px;
   text-align: left;
   cursor: default;
@@ -265,7 +265,7 @@ h1 {
   text-transform: uppercase;
   color: #ffffff;
   letter-spacing: 2px;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 18px;
   margin-bottom: 8%;
 }
@@ -309,7 +309,7 @@ h1 {
 .ticket {
   color: #333333;
   display: inline-block;
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: 1px;
   line-height: 18px;
   margin-left: 10px;
@@ -420,7 +420,7 @@ h3 {
   letter-spacing: 1.5px;
 }
 h3 span {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 42px;
   text-transform: uppercase;
 }
@@ -435,7 +435,7 @@ h4 {
 }
 h5 {
   color: #ad9480;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 20px;
   font-weight: bold;
   letter-spacing: .6px;
@@ -690,7 +690,7 @@ h5 {
   border-spacing: 0px;
   background: #ffffff;
   font-family: 'Alegreya Sans', sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: normal;
   padding: 5px;
   border: none!important;
@@ -701,7 +701,7 @@ h5 {
 }
 .table td {
   font-family: 'Alegreya Sans', sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   padding: 0;
   color: #ffffff;
   border-collapse: separate;
@@ -757,7 +757,7 @@ h5 {
   text-transform: uppercase;
   margin: 26px 0 0;
   padding: 0 20px;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 40px;
   letter-spacing: 1px;
 }
@@ -833,7 +833,7 @@ h5 {
   background: #ffffff;
   color: #ffa019;
   text-decoration: none;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 27px;
   width: 29px;
   height: 29px;
@@ -865,7 +865,7 @@ h5 {
 }
 .list1 li a {
   color: #ffa019;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
 }
 .list1 li a:hover {
@@ -910,7 +910,7 @@ h5 {
   display: inline-block;
   position: relative;
   line-height: 16px;
-  font-size: 14px;
+  font-size: 16px;
 }
 .copy a:hover {
   color: #ffa019;
@@ -1063,7 +1063,7 @@ h5 {
   }
   .links li a {
     padding: 35px 0;
-    font-size: 14px;
+    font-size: 16px;
   }
   .thumb {
     margin-left: 10px;
@@ -1183,7 +1183,7 @@ h5 {
     padding: 10px 0;
   }
   .table time {
-    font-size: 14px;
+    font-size: 16px;
     margin: 0;
   }
   .table .list {
@@ -1206,4 +1206,17 @@ img.muygrande {
 
 .bigbutton:hover {
   background: #444444;
+}
+
+.bigletter {
+  font-size: 20px;
+  text-align: center;
+}
+
+.turnoffpls {
+  opacity: 0.5;
+}
+
+.textplscenter {
+  text-align: center;
 }
