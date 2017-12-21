@@ -6,6 +6,6 @@ Rails.application.routes.draw do
   get '/about', :to => 'home#about', as: 'about'
   get '/game', :to => 'home#game', as: 'game'
   get '/ranking', :to => 'home#ranking', as: 'ranking'
-  get '/contact', :to => 'home#contact', as: 'contact'
+  get '/testimonials', :to => 'home#testimonials', as: 'testimonials'
 
 end
